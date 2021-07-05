@@ -1,0 +1,33 @@
+.about_text{
+    margin-left: 20px;
+    margin-right: 20px;
+}
+
+.background{
+    background-image: url('background/Pozadina.jpg');
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    color: rgb(16, 17, 16);
+   
+}
+
+img{
+    width: 100%;
+    object-fit: contain;
+    max-height: 300px;
+}
+
+.producers{
+    padding-top: 20px;
+    display: flex;
+    padding-bottom: 30px;
+}
+
+.creator_name{
+    margin-left: 575px;
+    margin-right: 310px;
+    display: flex;
+    justify-content: space-between;
+    padding-bottom: 20px;
+}
